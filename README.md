@@ -1,5 +1,3 @@
-## React 360 virtual tour created for OdessaJS conference talk
-
 **Install and run**
 
 1.  npm install
