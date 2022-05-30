@@ -1,3 +1,5 @@
+Laadi alla Node.js,
+kood sisesta Visual Studio's,
 **Install and run**
 In terminal:
 1.  npm install
